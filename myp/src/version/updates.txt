@@ -1,0 +1,13 @@
+09092018[Morning]:
+1. Base code created.
+2. Base sql tables created.
+-----||
+09092018[Evening]:
+1. Dynamic Service Caller Imlementation
+2. ptoken implementation
+3. nonauth flow implementation
+4. Session invalidate after successful login
+5.token validation
+6. Service method with HTTPSession
+7. Configs XML file parsing and service method loaded once in application implemented.
+

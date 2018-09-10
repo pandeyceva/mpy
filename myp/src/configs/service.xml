@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+	<service-info>
+		<service-code>CUSSIGNUP</service-code>
+		<service-method>cussignup</service-method>
+	</service-info>
+	<service-info>
+		<service-code>INVINTSIGNUP</service-code>
+		<service-method>investorinterestedsignup</service-method>
+	</service-info>
+	<service-info>
+		<service-code>INVINTSIGNUP</service-code>
+		<service-method>investorsignup</service-method>
+	</service-info>
+</service>
